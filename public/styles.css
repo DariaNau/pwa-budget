@@ -1,6 +1,8 @@
-body {
+body{
   font-size: 120%;
   font-family: Arial;
+  background-image: url(./icons/Hello.png);
+  opacity: 95%
 }
 
 button, input {
@@ -10,6 +12,7 @@ button, input {
 
 table {
   width: 100%;
+  color: rgb(61, 37, 83);
 }
 
 td, th {
