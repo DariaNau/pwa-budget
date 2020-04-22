@@ -1,6 +1,8 @@
-# PWA. Online/Offline Budget Trackers
+# PWA: Online/Offline Budget Trackers
 
 The user will is able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they can populate the total when brought back online.
+
+Check out this link to see the app in action https://secret-tor-45178.herokuapp.com/.
 
 GIVEN a user is on Budget App without an internet connection
 WHEN the user inputs a withdrawal or deposit
