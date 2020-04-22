@@ -21,7 +21,7 @@ When brought back online:
 
 Check out this link to see the app in action https://secret-tor-45178.herokuapp.com/.
 
-![screen](/public/icons/screen-Copy.png)
+![screen](/public/icons/screen.png)
 
 ## User Story
 AS AN avid traveller
